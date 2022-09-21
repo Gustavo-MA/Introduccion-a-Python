@@ -58,6 +58,16 @@ gustavo@gustavo-VirtualBox:~/Downloads$ sudo apt-get install jupyter
 7.-Ejemplo: Multiplos hasta N.
 ![image](https://user-images.githubusercontent.com/111370930/191408901-0eacc096-c1a7-4256-89a1-e4d9f51d3b47.png)
 
+
+8.- Ejemplo: Funcion Rectangulo (Paso de parametros).
+![image](https://user-images.githubusercontent.com/111370930/191416900-4fdfebaa-e2bc-4ac8-aee5-7089980d7122.png)
+![image](https://user-images.githubusercontent.com/111370930/191417045-1515f942-594f-4d9d-b88c-e949cc14e9dc.png)
+
+
+9.- Ejemplo  Sucesion (Retorno de valores)
+![image](https://user-images.githubusercontent.com/111370930/191416976-ec7e333f-b401-42f7-a6a6-80baed3fdedd.png)
+
+
 Liga: 
 https://github.com/Gustavo-MA/Introduccion-a-Python
 
