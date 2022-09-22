@@ -67,6 +67,30 @@ gustavo@gustavo-VirtualBox:~/Downloads$ sudo apt-get install jupyter
 9.- Ejemplo  Sucesion (Retorno de valores)
 ![image](https://user-images.githubusercontent.com/111370930/191416976-ec7e333f-b401-42f7-a6a6-80baed3fdedd.png)
 
+------------------------REGRESIONES LINEALES ---------------------
+
+Siguiendo con las funciones se realizan las funciones de las regresiones lineales utilizando puntos aleatorios y calculados con
+los minimos cuadrados.
+10.- El primer ejemplo de regresion lineal es el siguiente:
+![image](https://user-images.githubusercontent.com/111370930/191803567-a0019f5f-a81b-47a7-a22c-e6c018d0128f.png)
+En donde se crea llos valores aleatorios y se normalizan mediante la predicion/objetivo.
+
+11.- En el segundo ejemplo observamos la traza o linea de regresion lineal utilizamos el paquete: from sklearn.linear_model import LinearRegression 
+![image](https://user-images.githubusercontent.com/111370930/191804138-b5bfb8a5-163b-45f7-bf4f-7a8661ad23c6.png)
+
+12. Y por ultimo observamos el ejemplo de la regresion lineal y polinomica grupadas.
+![image](https://user-images.githubusercontent.com/111370930/191804558-896e6962-ed80-4492-943c-f952781a589c.png)
+
+Es importante señalar que para la ejecucion de los paquetes import numpy, pandas, etc..
+Se deben realizar los siguientes comandos:
+
+sudo apt-get install python3-numpy
+
+sudo apt-get install python3-matplotlib
+
+sudo apt-get install python3-pandas
+
+sudo apt-get install python3-sklearn
 
 Liga: 
 https://github.com/Gustavo-MA/Introduccion-a-Python
