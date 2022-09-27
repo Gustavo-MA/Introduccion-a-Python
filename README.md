@@ -24,9 +24,12 @@ Don descargamos la version: Anaconda3-2022.05-Linux-x86_64.sh
  E instalamaos este complemento con los comandos:
  
 gustavo@gustavo-VirtualBox:~/Downloads$ bash Anaconda3-2022.05-linux-x86_64.sh
-y posterioermente  ala instalacion de jupyter:
+y posterioermente  a la instalacion de jupyter:
 
 gustavo@gustavo-VirtualBox:~/Downloads$ sudo apt-get install jupyter
+
+# Basicos-Python
+
 
  Despues de la instalacion de Jupyter, se procede al desarrollo de de los ejemplos de la plataforma de codigoIoT:
 1.- Ejemplo donde se insertan variables desde teclado.
